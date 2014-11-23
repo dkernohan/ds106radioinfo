@@ -7,6 +7,13 @@ DS106radio is a freeform, live streaming, community radio station where anyone c
 Where it all began http://ds106.us/ds106-radio/
 Where the magic happens http://ds106rad.io/dashboard/
 
+Listen to the radio
+
+You can head for the dashboard (http://ds106rad.io/dashboard) or the "listen" page (http://ds106rad.io/listen) and click play on the mini-player.
+
+If you use streaming software like VLC or Xialite Live
+
+
 So, What is DS106RADIO?
 Is it “4LIFE”?
 Links
